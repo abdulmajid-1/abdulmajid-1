@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdul Majid  
 
-<!--
-**abdulmajid-1/abdulmajid-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate **Full-Stack Developer** | 💻 Tech Enthusiast | 🌐 Lifelong Learner  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I love building scalable web apps, exploring new technologies, and solving real-world problems through code.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me  
+- 🔭 Currently working on: **VidTube** – a YouTube-inspired video-sharing platform  
+- 🌱 Currently learning: **Advanced React, Node.js, and Cloud Deployment**  
+- 👯 Looking to collaborate on: **Open Source Projects** & innovative web apps  
+- 💬 Ask me about: **React, Node.js, Express, MongoDB, Databases, and Networking Concepts**  
+- 📫 How to reach me: [Email Me]imabdulmajid2000@gmail.com
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:**  
+`JavaScript` | `PHP` | `SQL` | `C++`  
+
+**Frontend:**  
+`React.js` | `HTML` | `CSS` | `Tailwind`  
+
+**Backend:**  
+`Node.js` | `Express.js` | `PHP (MVC)`  
+
+**Databases:**  
+`MongoDB` | `MySQL`  
+
+**Tools & Platforms:**  
+`Git/GitHub` | `Vercel` | `Render` | `Cisco Packet Tracer`  
+
+---
+
+## 🚀 Featured Projects  
+
+🔹 [**VidTube**](https://vidtube-frontend-silk.vercel.app/)  
+*A video streaming & social platform (React + Node + MongoDB)*  
+
+🔹 [**Student Portal**](https://studentportalphp.infinityfreeapp.com/views/register.php)  
+*Web-based system to manage a school or university*  
+
+---
+
+
+
+⭐️ **"Code. Create. Innovate. Repeat."**
