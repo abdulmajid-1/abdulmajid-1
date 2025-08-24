@@ -12,7 +12,7 @@ I love building scalable web apps, exploring new technologies, and solving real-
 - 🌱 Currently learning: **Advanced React, Node.js, and Cloud Deployment**  
 - 👯 Looking to collaborate on: **Open Source Projects** & innovative web apps  
 - 💬 Ask me about: **React, Node.js, Express, MongoDB, Databases, and Networking Concepts**  
-- 📫 How to reach me: [Email Me]imabdulmajid2000@gmail.com
+- 📫 How to reach me: [Email Me](imabdulmajid2000@gmail.com)
 
 ---
 
